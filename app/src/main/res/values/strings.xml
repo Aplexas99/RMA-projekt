@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="title_home">New Run</string>
+    <string name="title_allruns">All runs</string>
+    <string name="title_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="your_speed">Your speed: </string>
+    <string name="txtSpeedValue"> 0.00</string>
+    <string name="gps_save_power">Save Power</string>
+    <string name="pace">Pace</string>
+    <string name="txtPaceValue">0.00</string>
+    <string name="txtPaceUnit"> per 100 m</string>
+    <string name="your_time">Your time:</string>
+    <string name="txtTimeValue">00-00-00</string>
+    <string name="distance">Distance: </string>
+    <string name="distanceValue">000.000</string>
+    <string name="DistanceUnit">m</string>
+    <string name="settingsTab">Settings</string>
+    <string name="all_runsTab">All runs</string>
+    <string name="new_runTab">New run</string>
+    <string name="StartRunHeading">Current Run</string>
+    <string name="RouteDistance">000.000</string>
+    <string name="permissionNotice">This app requires permission to be grant</string>
+    <string name="add_waypoint">Add waypoint</string>
+    <string name="remove_waypoint">Remove waypoint</string>
+    <string name="calculated_distance">Calculated distance :</string>
+    <string name="calculatedDistanceOfRout">0000</string>
+    <string name="calculatedDistanceOfRouteUnit">m</string>
+    <string name="defineRouteHeading">Define route</string>
+    <string name="txtSpeedUnit">m/s</string>
+    <string name="finishRouteDefining">Finish</string>
+    <string name="txtmodel_id">1</string>
+    <string name="txtmodel_title">Title</string>
+    <string name="txtmodel_distance">Distance:</string>
+    <string name="txtmodel_avgPace">avgPace</string>
+    <string name="txtmodel_avgSpeed">avgSpeed</string>
+    <string name="txtmodel_duration">Duration</string>
+    <string name="start_new_run">Start new run</string>
+    <string name="input_data_and_start">Input data and start new run</string>
+    <string name="edittext_input_distance">Distance</string>
+    <string name="edittext_input_desired_time">hh-mm-ss</string>
+    <string name="txt_desired_time">00-00-00</string>
+    <string name="desired_pace">Desired pace:</string>
+    <string name="txtDesired_pace_value">0.00</string>
+    <string name="desired_pace_per_km">per 100 m</string>
+    <string name="slash">/</string>
+    <string name="start_btn">Start</string>
+    <string name="pause_btn">Pause</string>
+    <string name="finish_btn">Finish</string>
+    <string name="database_error">Database Error, please try again</string>
+    <string name="error_incorrect_time">Error, incorrect time or distance input</string>
+    <string name="measuring_method">GPS / Step sensor</string>
+    <string name="choose_step">Choose Step sensor if running indoors</string>
+    <string name="choose_distance_unit_meters_miles">Choose distance unit:</string>
+    <string name="txt_map_updating">Choose intervals for map updating:</string>
+    <string name="sec_spinner">sec</string>
+    <string name="update_distance_run_every">Update distance run every:</string>
+    <string name="update_map_location_every">Update map location every:</string>
+    <string name="settings_measure">Measure distance every:</string>
+    <string name="switch_summary">meters / feets</string>
+    <string name="feet_unit">ft/s</string>
+    <string name="feet_distance_unit">feets</string>
+    <string name="meters">meters</string>
+    <string name="permission_not_granted">Permission not granted</string>
+
+    <string-array name="intervalsNames">
+        <item>1 sec</item>
+        <item>2 sec</item>
+        <item>3 sec</item>
+        <item>5 sec</item>
+    </string-array>
+
+    <string-array name="intervalsValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="distance_txt">Distance:</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/activity_maps.xml" value="0.14325842696629212" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/activity_maps2.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/fragment_allruns.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/fragment_dashboard.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/fragment_home.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/fragment_notifications.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/item_run.xml" value="0.22" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/layout/popup_window.xml" value="0.1" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/menu/app_action_bar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/DT User3/AndroidStudioProjects/MyApplication1/app/src/main/res/xml/settings_screen.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
